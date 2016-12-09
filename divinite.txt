@@ -1,0 +1,9 @@
+Divinité;Brenalen;A;B;D;1;0;
+Divinité;Drinded;A;B;C;1;0;
+Divinité;Yarstur;E;C;D;1;0;
+Divinité;Killinstred;A;D;E;5;0;
+Divinité;Llenella;A;D;E;5;0;
+Divinité;Pui-Tara;A;D;C;5;0;	
+Divinité;Gnenghelen;B;D;C;2;0;	
+Divinité;Shingua;B;D;E;2;0;
+Divinité;Corpa;B;C;E;4;0;
